@@ -1,0 +1,3 @@
+2023-11-06 11:02:12.292  INFO 22788 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-06 11:02:13.338  WARN 22788 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-11-06 11:02:13.338 ERROR 22788 --- [main] com.nowcoder.community.LoggerTests       : error log
